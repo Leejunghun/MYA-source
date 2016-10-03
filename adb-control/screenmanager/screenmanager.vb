@@ -78,7 +78,7 @@
 
             'WARN: may not suppport multi-screen.
 
-            Private Function RawDisplayDumpData()
+    Private Function RawDisplayDumpData() As String
 
                 Try
 
